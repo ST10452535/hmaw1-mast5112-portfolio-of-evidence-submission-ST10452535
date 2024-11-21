@@ -2,6 +2,9 @@
 
 ![MAST GirHub POE](https://github.com/user-attachments/assets/4ea004ee-e706-4db4-841d-e6c8238d972e)
 
+## I used SNACK to make my code run:
+Snack: https://snack.expo.dev/NHvS7lQY7tdIglTtLJOPT 
+
 ## Visual Photo's of the application running
 ![WhatsApp Image 2024-11-21 at 18 02 39](https://github.com/user-attachments/assets/876bab21-9389-42a5-8e13-e6c3619654fd)
     **Home Screen**
