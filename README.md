@@ -2,13 +2,19 @@
 
 ![MAST GirHub POE](https://github.com/user-attachments/assets/4ea004ee-e706-4db4-841d-e6c8238d972e)
 
-## Warning!!
+## Visual Photo's of the application running
+![WhatsApp Image 2024-11-21 at 18 02 39](https://github.com/user-attachments/assets/876bab21-9389-42a5-8e13-e6c3619654fd)
+    **Home Screen**
 
-I TRIED TO RESOLVE THE ERROR ON THE APP, BUT UNFORTUNATLY I COULDN'T.
-I coded my app, and it did run the first time and when I was busy trying to resolve a error, it seems something crashed my application, therefore I didn't get a chance to run my app.
+![WhatsApp Image 2024-11-21 at 18 02 39 (1)](https://github.com/user-attachments/assets/b9427d2b-0933-4d25-9828-cb2522260447)
+    **Add Dish Screen**
 
-Below is the proof of a continuas error 500, relating to the server.
-![WhatsApp Image 2024-11-21 at 16 02 59](https://github.com/user-attachments/assets/2ff10548-4358-4fdd-8979-7bc9e7da77e1)
+![WhatsApp Image 2024-11-21 at 18 02 39](https://github.com/user-attachments/assets/95e3ca38-bc8c-473e-8215-f3028beae6fd)
+    **Filter Screen**
+
+![WhatsApp Image 2024-11-21 at 18 02 39 (3)](https://github.com/user-attachments/assets/bb388a44-6d04-4001-8302-241a6cc57fe3)
+    **Login Screen for the Chef**
+
 
 ## What I changed:
 
@@ -20,5 +26,7 @@ Below is the proof of a continuas error 500, relating to the server.
 6. The appearance was rounded.
 7. Lastly the overall app looked better.
 
-### Please Sir can help!!
+## Links to video:
+
+Youtube: https://youtube.com/shorts/xGHSB2Qze7Y?feature=share 
 
