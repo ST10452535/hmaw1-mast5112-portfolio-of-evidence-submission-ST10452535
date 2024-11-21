@@ -1,6 +1,6 @@
 # Fabulous Food App
 
-!![MAST GirHub POE](https://github.com/user-attachments/assets/4ea004ee-e706-4db4-841d-e6c8238d972e)
+![MAST GirHub POE](https://github.com/user-attachments/assets/4ea004ee-e706-4db4-841d-e6c8238d972e)
 
 ## Warning!!
 
@@ -8,7 +8,7 @@ I TRIED TO RESOLVE THE ERROR ON THE APP, BUT UNFORTUNATLY I COULDN'T.
 I coded my app, and it did run the first time and when I was busy trying to resolve a error, it seems something crashed my application, therefore I didn't get a chance to run my app.
 
 Below is the proof of a continuas error 500, relating to the server.
-!![WhatsApp Image 2024-11-21 at 16 02 59](https://github.com/user-attachments/assets/2ff10548-4358-4fdd-8979-7bc9e7da77e1)
+![WhatsApp Image 2024-11-21 at 16 02 59](https://github.com/user-attachments/assets/2ff10548-4358-4fdd-8979-7bc9e7da77e1)
 
 ## What I changed:
 
